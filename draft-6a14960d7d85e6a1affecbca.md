@@ -1,6 +1,10 @@
 ---
 title: "From Stack Overflow to Agentic Engineering: My Journey with AI Coding"
-
+slug: from-stack-overflow-to-agentic-engineering-my-journey-with-ai-coding
+tags: ai, agentic-ai, ai-tools, software-engineering, developer-tools
+domain: blog.jieren-deng.com
+saveAsDraft: true
+enableToc: true
 cover: https://cdn.hashnode.com/uploads/covers/6a14918d7d85e6a1affcf755/3ce1099a-c98d-4dfb-b505-62c348eda182.png
 ---
 
@@ -20,7 +24,7 @@ My AI coding journey went through five stages:
 The biggest change is not simply that AI writes more code.
 
 It is that the role of engineers is shifting from **implementation-first** to **orchestration-first**.
-![AI coding journey timeline](./assets/agentic-engineering-journey.png)
+![AI coding journey timeline](https://raw.githubusercontent.com/jrdeng93/hashnode-posts/main/assets/agentic-engineering-journey.png)
 
 
 ---
@@ -110,7 +114,7 @@ It changed my workflow from simply “doing research” to building a faster res
 AI became a research productivity partner.
 
 ---
-![](./assets/workflow-comparison.png)
+![](https://raw.githubusercontent.com/jrdeng93/hashnode-posts/main/assets/workflow-comparison.png)
 ## 2024-2025: From Writing Code to Co-Debugging Systems
 
 One year later, I returned to Microsoft AI as a full-time engineer.
@@ -163,7 +167,7 @@ At this stage, AI felt less like a code generator and more like a co-debugger.
 My role became closer to an architect and reviewer: define the structure, set the interfaces, review the generated implementation, and debug the gap between code and reality.
 
 ---
-![](./assets/real-case.png)
+![](https://raw.githubusercontent.com/jrdeng93/hashnode-posts/main/assets/real-case.png)
 ## 2025-2026: AI Became a Team of Strong Partners
 
 After about a year at Microsoft, I transferred to a new team in Azure Core.
@@ -215,7 +219,7 @@ Less like an individual contributor typing every line.
 More like a tech lead guiding a small team of very capable AI partners.
 
 ---
-![](./assets/ai-partner.png)
+![](https://raw.githubusercontent.com/jrdeng93/hashnode-posts/main/assets/ai-partner.png)
 ## Main Takeaway: From Coder to Orchestrator
 
 I once shared my “vibe coding” experience in a team meeting.
