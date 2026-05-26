@@ -1,12 +1,10 @@
 ---
-title: "From Stack Overflow to Agentic Engineering: My Journey with AI Coding"
-slug: from-stack-overflow-to-agentic-engineering-my-journey-with-ai-coding
-tags: ai, agentic-ai, ai-tools, software-engineering, developer-tools
-domain: blog.jieren-deng.com
-saveAsDraft: true
-enableToc: true
+title: "From Stack Overflow to Agentic Engineering: My Journey with AI Coding
+"
 cover: https://cdn.hashnode.com/uploads/covers/6a14918d7d85e6a1affcf755/3ce1099a-c98d-4dfb-b505-62c348eda182.png
+
 ---
+
 
 ## TL;DR
 
